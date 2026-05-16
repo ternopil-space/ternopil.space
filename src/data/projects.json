@@ -1,0 +1,150 @@
+[
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Flyashka Restoratsiya",
+    "description": "Published at flyashka-restoratsiya.ternopil.space.",
+    "projectUrl": "https://flyashka-restoratsiya.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/q2vm4Ajhg44Wwmpx6",
+    "address": "пр. Тараса Шевченка, 1, Тернопіль",
+    "phones": ["+380671607773", "+380938478900"],
+    "email": null,
+    "socials": {
+      "instagram": "https://www.instagram.com/flyashka_ternopil/",
+      "facebook": "https://www.facebook.com/flyashka.te.ua/"
+    }
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Sapsan",
+    "description": "Published at sapsan.ternopil.space.",
+    "projectUrl": "https://sapsan.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/pTXx8qxZcst1jWWd8",
+    "address": "вул. Білецька, 49а, Тернопіль",
+    "phones": ["+380984768228", "+380987017161"],
+    "email": null,
+    "socials": {
+      "instagram": "https://www.instagram.com/sapsan_te/",
+      "facebook": "https://www.facebook.com/TernopilSapsan/"
+    }
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Stella",
+    "description": "Published at stella.ternopil.space.",
+    "projectUrl": "https://stella.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/QCcfta3uYuPH2vyp6",
+    "address": "с. Петриків, вул. С. Бандери, 50, Тернопільський район",
+    "phones": ["+380632185555"],
+    "email": null,
+    "socials": {
+      "instagram": "https://www.instagram.com/stellaternopil/",
+      "restaurantInstagram": "https://www.instagram.com/restaurant_stella/",
+      "facebook": "https://www.facebook.com/Stella-hotel-ternopil-105828655109109/"
+    }
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Golden Ring",
+    "description": "Published at golden-ring.ternopil.space.",
+    "projectUrl": "https://golden-ring.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/qSK8BEMNJtRyhaC19",
+    "address": "вул. 15 Квітня, 1Е, Тернопіль",
+    "phones": ["+380680707717"],
+    "email": "goldenringternopil@gmail.com",
+    "socials": {
+      "instagram": "https://www.instagram.com/hotel_golden_ring/",
+      "facebook": "https://www.facebook.com/GotelGoldenRing/"
+    }
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Hostel Tarnopil",
+    "description": "Published at hostel-tarnopil.ternopil.space.",
+    "projectUrl": "https://hostel-tarnopil.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/gQkUK4z8AFJcRkhe9",
+    "address": "вул. Качали, 18, Тернопіль",
+    "phones": ["+380681181540"],
+    "email": null,
+    "socials": {
+      "instagram": "https://www.instagram.com/tarnopilhostel/",
+      "facebook": "https://www.facebook.com/hosteltarnopil/"
+    }
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Mayak",
+    "description": "Published at mayak.ternopil.space.",
+    "projectUrl": "https://mayak.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/JNNH32vaYTdrE8T79",
+    "address": "вул. Мазепи, 1, Тернопіль",
+    "phones": ["+380988432300"],
+    "email": null,
+    "socials": {
+      "instagram": "https://www.instagram.com/mayak_pub/"
+    }
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Hotel Hostel Rooms",
+    "description": "Published at hotel-hostel-rooms.ternopil.space.",
+    "projectUrl": "https://hotel-hostel-rooms.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/nXWP1ckvkpBDNViBA",
+    "address": "Bohdana Khmel'nyts'koho St, Ternopil, Ternopil Oblast, 46002",
+    "phones": [],
+    "email": null,
+    "socials": {}
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Staryi Mlyn",
+    "description": "Published at staryi-mlyn.ternopil.space.",
+    "projectUrl": "https://staryi-mlyn.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/8SwV1YMYoTvgFY3A8",
+    "address": "Brodivs'ka St, 1а, Ternopil, Ternopil Oblast, 46000",
+    "phones": ["+380352519555", "+380983522222"],
+    "email": null,
+    "socials": {}
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Try Mykoly",
+    "description": "Published at try-mykoly.ternopil.space.",
+    "projectUrl": "https://try-mykoly.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/uxyTwSFcy4kAVqKD6",
+    "address": "вул. Торговиця, 1а, Тернопіль",
+    "phones": ["+380673338880"],
+    "email": null,
+    "socials": {}
+  },
+  {
+    "badge": "Built project",
+    "category": "HoReCa website",
+    "title": "Gentleman",
+    "description": "Published at gentleman.ternopil.space.",
+    "projectUrl": "https://gentleman.ternopil.space",
+    "tags": ["ternopil.space"],
+    "googlePlace": "https://maps.app.goo.gl/3awZi7VrWvEAvgks8",
+    "address": "с. Петриків, вул. Дорошенка, 3–4, Тернопіль",
+    "phones": ["+380985519900", "+380968168448"],
+    "email": "gentleman_hotel@ukr.net",
+    "socials": {}
+  }
+]

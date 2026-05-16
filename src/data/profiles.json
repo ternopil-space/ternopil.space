@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Denys Honchar",
+		"seniority": "senior",
+		"location": "remote",
+		"roles": ["founder", "developer"],
+		"image": "profile/ceo.webp",
+		"socials": [
+			{
+				"label": "LinkedIn",
+				"icon": "linkedin",
+				"href": "https://www.linkedin.com/in/crackeraki",
+				"external": true
+			}
+		]
+	},
+	{
+		"name": "Denys Krivorucko",
+		"seniority": "junior",
+		"location": "remote",
+		"roles": ["developer"],
+		"image": "profile/denys.webp",
+		"socials": [
+			{
+				"label": "LinkedIn",
+				"icon": "linkedin",
+				"href": "https://www.linkedin.com/in/crackeraki",
+				"external": true
+			}
+		]
+	},
+	{
+		"name": "Vicotria",
+		"seniority": "senior",
+		"location": "remote",
+		"roles": ["smm", "photographer"],
+		"image": "profile/vika.webp",
+		"socials": [
+			{
+				"label": "LinkedIn",
+				"icon": "linkedin",
+				"href": "https://www.linkedin.com/in/crackeraki",
+				"external": true
+			}
+		]
+	},
+	{
+		"name": "Vicotria",
+		"seniority": "middle",
+		"location": "remote",
+		"roles": ["agent"],
+		"image": "profile/vikas.webp",
+		"socials": [
+			{
+				"label": "LinkedIn",
+				"icon": "linkedin",
+				"href": "https://www.linkedin.com/in/crackeraki",
+				"external": true
+			}
+		]
+	},
+	{
+		"name": "Anna Kuzyshen",
+		"seniority": "junior",
+		"location": "local",
+		"roles": ["agent"],
+		"image": "profile/anna.kozyshen.webp",
+		"socials": [
+			{
+				"label": "LinkedIn",
+				"icon": "linkedin",
+				"href": "https://www.linkedin.com/in/crackeraki",
+				"external": true
+			}
+		]
+	}
+]
